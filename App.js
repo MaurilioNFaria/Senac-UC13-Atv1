@@ -94,14 +94,14 @@ const styles = StyleSheet.create({
   results: {
     flex: 2,
     justifyContent: "center",
-    backgroundColor: "#f5f5f5"
+    backgroundColor: "#f5f5f5",
   },
   resultText: {
     color: "#282F38",
     fontSize: 32,
     fontWeight: "bold",
     padding: 12,
-    textAlign: "right"
+    textAlign: "right",
   },
   historyText:{
     color: "#7c7c7c",
